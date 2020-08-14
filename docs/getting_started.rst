@@ -7,7 +7,7 @@ Installation
 ------------
 
 .. attention::
-    Mimesis works only on Python 3.6 and higher. Developers have not plans related to adding support
+    Mimesis works only on Python 3.6 and higher. Developers have no plans related to adding support
     for old versions of Python.
 
 
